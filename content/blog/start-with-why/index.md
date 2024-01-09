@@ -9,7 +9,7 @@ the motivation behind this blog is much deeper than that and feels like a
 culmination and supersession of the last 29 years of my life.
 
 This particular moment feels like I have received the final kick up the
-logarithmically shaped stairs of consciousness. My youth was long and flat and
+exponentially shaped stairs of consciousness. My youth was long and flat and
 entailed assimilation to conventional reality. My young adulthood added some
 height to the stairs and activated my mind and ambition. At 27, the stairs
 became shorter and clearer to perceive. I began practicing Vipassana meditation
@@ -36,4 +36,12 @@ Accumulating self knowledge is only so beneficial. This is why I begin this
 blog-- to articulate what I'm experiencing for both my own sake and so that others
 might find their own path through hearing my experiences. More specifically
 though, I will write about spirituality, meditation, astrology, mysticism, and
-whatever moments or dreams I feel the need to share. 
+whatever moments or dreams I feel the need to share.
+
+Thank you for reading these thoughts 🙇 and I am excited to continue sharing
+with you throughout this year and beyond. Feel free to reach out via email if
+you desire to [contact me](mailto:brentenlovato.reunite905@aleeas.com).
+
+with love,
+
+-Brenten

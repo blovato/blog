@@ -1,6 +1,6 @@
 ---
 title: Autopoiesis for Organizational Evolution
-date: "2024-01-09T01:46:42.748Z"
+date: "2024-01-08T01:46:42.748Z"
 description: Explores the concept of autopoesis (a self maintaining system) as it metaphorically relates to organizational functioning.
 ---
 
