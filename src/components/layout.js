@@ -1,6 +1,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -8,6 +9,16 @@ const Layout = ({ location, title, children }) => {
 
   const header = isRootPath ? (
     <h1 className="main-heading">
+      <StaticImage
+        className="venn-icon"
+        layout="fixed"
+        formats={["auto", "webp", "avif"]}
+        src="../images/venn.png"
+        width={64}
+        height={64}
+        quality={95}
+        alt="Logo"
+      />
       <Link to="/">{title}</Link>
     </h1>
   ) : (

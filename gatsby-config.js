@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `The Hermit Writings`,
+    title: `Theosis Blog`,
     author: {
       name: `Brenten Lovato`,
       summary: `who explores consciousness for the benefit of all beings`,
@@ -116,7 +116,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/venn.png`, // This path is relative to the root of the site.
       },
     },
   ],
